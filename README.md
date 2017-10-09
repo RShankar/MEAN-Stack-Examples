@@ -1,6 +1,8 @@
 # MEAN-Stack-Examples
 
-There are many good learning resources. This is an attempt to consolidate links and examples that I found useful.
+There are many good learning resources. This is an attempt to consolidate links and examples that I found useful. Saved App folders as zip folders. Please unzip and use.
+
+Tools used: Atom from https://ide.atom.io/ , GitBash from Git at https://git-scm.com/, NodeJS from https://nodejs.org/en/
 
 Initial list:
 
