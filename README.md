@@ -1,6 +1,6 @@
 # MEAN-Stack-Examples
 
-There are many good learning resources. This is an attempt to consolidate links and examples that I found useful, in one place.
+There are many good learning resources. This is an attempt to consolidate links and examples that I found useful.
 
 Initial list:
 
