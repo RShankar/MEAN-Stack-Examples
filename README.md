@@ -1,6 +1,6 @@
 # MEAN-Stack-Examples
 
-There are many good learning resources. This is an attempt to consolidate links and examples in one place.
+There are many good learning resources. This is an attempt to consolidate links and examples that I found useful, in one place.
 
 Initial list:
 
@@ -12,4 +12,6 @@ Initial list:
 
 4. NodeJS- https://nodejs.org/en/ , APIs: https://nodejs.org/dist/latest-v6.x/docs/api/ , 
 
-5. MEAN Stack: Books - Get Programming with NODE.JS by Wexler, and Node.Js in Action by Young, Meck, and Cantelon, both from Manning Publishing company.
+5. MEAN Stack: Books - 'Get Programming with NODE.JS' by Wexler, and 'Node.Js in Action' 2nd ed.,  by Young, Meck, and Cantelon, both from Manning Publishing company. 'Node.JS Web Development'3rd ed.,  by Herron. 
+
+6. Mobile Apps: Book - Buliding Cross-Platform Mobile Apps... by Lingras
